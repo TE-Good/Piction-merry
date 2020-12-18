@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Piction-merry/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/Piction-merry/static/js/main.a43ea7eb.chunk.js",
-    "main.js.map": "/Piction-merry/static/js/main.a43ea7eb.chunk.js.map",
+    "main.js": "/Piction-merry/static/js/main.9e8c8ed5.chunk.js",
+    "main.js.map": "/Piction-merry/static/js/main.9e8c8ed5.chunk.js.map",
     "runtime-main.js": "/Piction-merry/static/js/runtime-main.62c008dd.js",
     "runtime-main.js.map": "/Piction-merry/static/js/runtime-main.62c008dd.js.map",
-    "static/js/2.ab3669df.chunk.js": "/Piction-merry/static/js/2.ab3669df.chunk.js",
-    "static/js/2.ab3669df.chunk.js.map": "/Piction-merry/static/js/2.ab3669df.chunk.js.map",
+    "static/js/2.b8269028.chunk.js": "/Piction-merry/static/js/2.b8269028.chunk.js",
+    "static/js/2.b8269028.chunk.js.map": "/Piction-merry/static/js/2.b8269028.chunk.js.map",
     "index.html": "/Piction-merry/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/Piction-merry/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.ab3669df.chunk.js.LICENSE.txt": "/Piction-merry/static/js/2.ab3669df.chunk.js.LICENSE.txt",
+    "static/js/2.b8269028.chunk.js.LICENSE.txt": "/Piction-merry/static/js/2.b8269028.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Piction-merry/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.62c008dd.js",
-    "static/js/2.ab3669df.chunk.js",
+    "static/js/2.b8269028.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.a43ea7eb.chunk.js"
+    "static/js/main.9e8c8ed5.chunk.js"
   ]
 }
