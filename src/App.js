@@ -42,7 +42,6 @@ function App() {
                 onMouseUp={handleMouseUp}
             >
                 <Layer>
-                    <Text text="Just start drawing" x={5} y={30}></Text>
                     {lines.map((line, i) => (
                         <Line
                             key={i}
@@ -51,20 +50,11 @@ function App() {
                             strokeWidth={5}
                             tension={0.5}
                             lineCap="round"
-                            // globalCompositeOperation={
-                            //     line.tool === "eraser"
-                            //         ? "destination-out"
-                            //         : "source-over"
-                            // }
                         />
                     ))}
                 </Layer>
             </Stage>
           </div>
-            {/* <select value={tool} onChange={(e) => setTool(e.target.value)}>
-                <option value="pen">Pen</option>
-                <option value="eraser">Eraser</option>
-            </select> */}
         </div>
     );
 }
