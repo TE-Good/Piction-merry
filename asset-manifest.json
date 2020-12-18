@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Piction-merry/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/Piction-merry/static/js/main.f72d5471.chunk.js",
-    "main.js.map": "/Piction-merry/static/js/main.f72d5471.chunk.js.map",
+    "main.css": "/Piction-merry/static/css/main.46e42aa8.chunk.css",
+    "main.js": "/Piction-merry/static/js/main.99cb2e3e.chunk.js",
+    "main.js.map": "/Piction-merry/static/js/main.99cb2e3e.chunk.js.map",
     "runtime-main.js": "/Piction-merry/static/js/runtime-main.62c008dd.js",
     "runtime-main.js.map": "/Piction-merry/static/js/runtime-main.62c008dd.js.map",
-    "static/js/2.b8269028.chunk.js": "/Piction-merry/static/js/2.b8269028.chunk.js",
-    "static/js/2.b8269028.chunk.js.map": "/Piction-merry/static/js/2.b8269028.chunk.js.map",
+    "static/js/2.c3ddfb2d.chunk.js": "/Piction-merry/static/js/2.c3ddfb2d.chunk.js",
+    "static/js/2.c3ddfb2d.chunk.js.map": "/Piction-merry/static/js/2.c3ddfb2d.chunk.js.map",
     "index.html": "/Piction-merry/index.html",
-    "static/css/main.ea1455b2.chunk.css.map": "/Piction-merry/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.b8269028.chunk.js.LICENSE.txt": "/Piction-merry/static/js/2.b8269028.chunk.js.LICENSE.txt"
+    "static/css/main.46e42aa8.chunk.css.map": "/Piction-merry/static/css/main.46e42aa8.chunk.css.map",
+    "static/js/2.c3ddfb2d.chunk.js.LICENSE.txt": "/Piction-merry/static/js/2.c3ddfb2d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.62c008dd.js",
-    "static/js/2.b8269028.chunk.js",
-    "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.f72d5471.chunk.js"
+    "static/js/2.c3ddfb2d.chunk.js",
+    "static/css/main.46e42aa8.chunk.css",
+    "static/js/main.99cb2e3e.chunk.js"
   ]
 }
