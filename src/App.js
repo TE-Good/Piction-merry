@@ -15,6 +15,11 @@ function App() {
         setLines([...lines, { tool, points: [pos.x, pos.y] }]);
     };
 
+    socket.on("publishDrawing", (newLines) => {
+        if (newLines == lines) return;
+        setLines(newLines)
+    })
+
     const handleMouseMove = (e) => {
         // no drawing - skipping
         if (!isDrawing.current) return;
@@ -28,9 +33,13 @@ function App() {
         // replace last
         lines.splice(lines.length - 1, 1, lastLine);
         setLines(lines.concat());
+        socket.emit("userDrawing", lines)
     };
 
-    const handleMouseUp = () => (isDrawing.current = false);
+    const handleMouseUp = () => {
+        isDrawing.current = false
+        // socket.emit("userDrawing", lines)
+    }
 
     return (
         <div className="App">
