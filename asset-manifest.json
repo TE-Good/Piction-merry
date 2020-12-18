@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Piction-merry/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/Piction-merry/static/js/main.2a7a33a1.chunk.js",
-    "main.js.map": "/Piction-merry/static/js/main.2a7a33a1.chunk.js.map",
+    "main.js": "/Piction-merry/static/js/main.f72d5471.chunk.js",
+    "main.js.map": "/Piction-merry/static/js/main.f72d5471.chunk.js.map",
     "runtime-main.js": "/Piction-merry/static/js/runtime-main.62c008dd.js",
     "runtime-main.js.map": "/Piction-merry/static/js/runtime-main.62c008dd.js.map",
     "static/js/2.b8269028.chunk.js": "/Piction-merry/static/js/2.b8269028.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.62c008dd.js",
     "static/js/2.b8269028.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.2a7a33a1.chunk.js"
+    "static/js/main.f72d5471.chunk.js"
   ]
 }
