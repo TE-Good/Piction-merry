@@ -1,6 +1,8 @@
 import './App.css';
 import React, { useState, useRef } from "react";
 import { Stage, Layer, Line, Text } from "react-konva";
+import io from 'socket.io-client';
+const socket = io('http://localhost:8000');
 
 function App() {
     const [tool, setTool] = useState("pen");
@@ -16,11 +18,10 @@ function App() {
     const handleMouseMove = (e) => {
         // no drawing - skipping
         if (!isDrawing.current) return;
-
+        socket.emit("DRAWING", e)
         const stage = e.target.getStage();
         const point = stage.getPointerPosition();
         let lastLine = lines[lines.length - 1];
-
         // add point
         lastLine.points = lastLine.points.concat([point.x, point.y]);
 
