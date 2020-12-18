@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/piction-merry/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/piction-merry/static/js/main.d1207b9a.chunk.js",
+    "main.js.map": "/piction-merry/static/js/main.d1207b9a.chunk.js.map",
+    "runtime-main.js": "/piction-merry/static/js/runtime-main.5a94a7c3.js",
+    "runtime-main.js.map": "/piction-merry/static/js/runtime-main.5a94a7c3.js.map",
+    "static/js/2.ab3669df.chunk.js": "/piction-merry/static/js/2.ab3669df.chunk.js",
+    "static/js/2.ab3669df.chunk.js.map": "/piction-merry/static/js/2.ab3669df.chunk.js.map",
+    "static/js/3.60c200e8.chunk.js": "/piction-merry/static/js/3.60c200e8.chunk.js",
+    "static/js/3.60c200e8.chunk.js.map": "/piction-merry/static/js/3.60c200e8.chunk.js.map",
+    "index.html": "/piction-merry/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/piction-merry/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.ab3669df.chunk.js.LICENSE.txt": "/piction-merry/static/js/2.ab3669df.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/piction-merry/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a94a7c3.js",
+    "static/js/2.ab3669df.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.d1207b9a.chunk.js"
+  ]
+}
